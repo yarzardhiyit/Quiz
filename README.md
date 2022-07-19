@@ -29,6 +29,6 @@
 ![Quiz1](https://github.com/yarzardhiyit/yarzardhiyit/blob/main/qh2.png)
 ![Quiz2](https://github.com/yarzardhiyit/yarzardhiyit/blob/main/qh3.png)
 ![Quiz3](https://github.com/yarzardhiyit/yarzardhiyit/blob/main/qh4.png)
-![Box2](https://github.com/yarzardhiyit/yarzardhiyit/blob/main/qh5.png)
+![MessageBox](https://github.com/yarzardhiyit/yarzardhiyit/blob/main/qh5.png)
 
 - Thanks.
